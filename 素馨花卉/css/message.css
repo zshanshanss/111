@@ -1,0 +1,148 @@
+section{
+    height: 823px;
+}
+.content-box{
+    height: 763px;
+}
+.content-left{
+    width: 780px;
+    height: 763px;
+    background: #ffffff;
+    padding: 30px;
+}
+.content-list{
+    width: 720px;
+    height: 863px;
+    margin-bottom: 20px;
+}
+.content-item{
+    width: 720px;
+    height: 79.6px;
+    /*background: #ffac13;*/
+    padding: 10px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+.content-item-left{
+    width: 46.4px;
+    height: 53.6px;
+    padding-bottom: 26px;
+}
+.content-item-left i{
+    font-size: 36px;
+    color: #a3afb7;
+}
+.content-item-right{
+    width: 671.2px;
+    height: 53.6px;
+}
+.item-right-title{
+    width: 671.2px;
+    height: 16.8px;
+    margin-bottom: 5px;
+    font-size: 14px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.item-right-title span{
+    width: 105px;
+    height: 10.5px;
+    font-size: 10.5px;
+    color: #a3afb7;
+}
+.item-right-p2{
+    color: #76838f;
+    font-weight: 400;
+    margin-bottom: 11px;
+}
+.reply1{
+    height: 142.8px;
+}
+.reply2{
+    height: 116.4px;
+}
+.reply3{
+     height: 163.6px;
+ }
+.reply4{
+    height: 137.6px;
+}
+.reply-box{
+    width: 671.2px;
+    /*height: 61.8px;*/
+    padding: 20px;
+    background: #f3f7f9;
+    border: 1px solid #e5e5e5;
+    border-radius: 3px;
+    color: #2a333c;
+}
+
+
+
+
+.content-right{
+    width: 360px;
+    height: 461.6px;
+    background: #ffffff;
+    padding: 30px;
+}
+.from-group{
+    width: 300px;
+    height: 36px;
+    margin-bottom: 20px;
+    border: 1px solid #e4eaec;
+    border-radius: 3px;
+    padding: 6px 15px;
+}
+.from-group input{
+    border: 0;
+    color: #76838f;
+}
+.jianyi{
+    height: 122px;
+}
+.from-group textarea{
+    width: 270px;
+    height: 110px;
+    border: 0;
+    color: #76838f;
+    font-size: 14px;
+    font-weight: 400;
+}
+.input-group-icon{
+    width: 300px;
+    height: 36px;
+    margin-bottom: 20px;
+    border: 1px solid #e4eaec;
+    border-radius: 3px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.input-icon{
+    width: 188.8px;
+    height: 34px;
+    padding: 4px 15px;
+    border: 0;
+    color: #76838f;
+}
+.input-addon{
+    width: 111.2px;
+    height: 36px;
+    border-left: 1px solid #e4eaec;
+    padding: 6px 15px;
+}
+.from-group-btn{
+     width: 300px;
+     height: 36px;
+     margin-bottom: 20px;
+ }
+.from-group-btn button{
+    width: 300px;
+    height: 36px;
+    background: #62a8ea;
+    color: #ffffff;
+    padding: 6px 15px;
+    border: 0;
+}
+
